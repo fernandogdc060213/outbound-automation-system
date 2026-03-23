@@ -18,3 +18,6 @@ To reduce manual prospecting work and scale outbound operations.
 ## Outcome
 - Reduced manual workload
 - Scaled outreach to hundreds of emails per day
+## Preview
+
+![Automation Console](./control panel.jpeg)
